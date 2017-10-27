@@ -1,0 +1,66 @@
+.main {
+  background-image: url("https://static.licdn.com/sc/h/64xk850n3a8uzse6fi11l3vmz");
+  height: 520px;
+  padding: 24px 12px;
+}
+
+.reg-form {
+  width: 400px;
+  padding: 0 0 24px;
+  margin: 0 auto;
+  border-radius: 2px;
+  background: #EDF0F3;
+  text-align: left;
+  overflow: hidden;
+}
+
+.title {
+  font-weight: 200;
+  color: rgba(0,0,0,0.85);
+  font-size: 26px;
+  background: #F6F8FA;
+  text-align: center;
+  padding: 16px 32px 8px 32px;
+  margin: 0px;
+}
+
+.subtitle {
+  font-size: 17px;
+  padding: 0 8px 16px;
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+
+label {
+  font-weight: 400;
+  color: rgba(0,0,0,0.85);
+  font-size: 15px;
+  display: block;
+  margin: 0 24px;
+  padding: 5px;
+}
+
+input {
+  height: 32px;
+  width: 352px;
+  margin: 0 24px;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.15);
+}
+
+.agreement {
+  font-weight: 400;
+  color: rgba(0,0,0,0.55);
+  font-size: 14px;
+  text-align: center;
+  display: block;
+  margin: 16px 16px 8px;
+}
+
+form input[type="submit"] {
+  background-color: #0084bf;
+  color: #fff;
+  cursor: pointer;
+  vertical-align: middle;
+  font-size: 17px;
+  font-weight: 500;
+}

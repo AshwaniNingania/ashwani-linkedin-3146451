@@ -1,0 +1,58 @@
+.title {
+  font-weight: 400;
+  color: rgba(255,255,255,0.85);
+  font-size: 16px;
+  line-height: 17px;
+  margin-right: 8px;
+}
+
+.directory {
+  padding : 15px;
+  font-size: 13px;
+}
+
+p{
+  word-spacing: 5px;
+}
+
+hr {
+  border: 0.5px lightgrey solid;
+}
+a {
+  padding: 2px;
+}
+.row {
+  background-color: #434649;
+  padding: 25px;
+}
+
+input{
+  font-size: 15px;
+  width: 220px;
+  height: 30px;
+  padding: 10px;
+  border: 1px solid #b3b6b9;
+  border-radius: 2px;
+}
+
+.button {
+  color: #b3b6b9;
+  width: 100px;
+  background-color: transparent;
+  border: 0;
+  border-radius: 2px;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.2rem;
+  font-weight: 400;
+  font-family: inherit;
+  height: 32px;
+  line-height: 32px;
+  overflow: hidden;
+  padding:0 10px;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.7);
+}

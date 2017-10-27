@@ -1,0 +1,37 @@
+.header {
+   background-color: #283e4a;
+  margin:0px;
+  padding: 10px;
+}
+
+.form-input{
+  font-size: 13px;
+  width: 220px;
+  height: 30px;
+  padding: 0 10px;
+  border: 1px solid #b3b6b9;
+  border-radius: 2px;
+}
+
+.form-submit {
+  font-weight: 400;
+  color: #fff;
+  font-size: 17px;
+  display: inline-block;
+  width: auto;
+  height: 32px;
+  padding: 0 20px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.forgot-password {
+  color: rgba(0,0,0,0.85);
+  font-size: 14px;
+  height: 80%;
+  align-items: center;
+  color: #cdcfd2;
+  margin: 0 10px 0 20px;
+}
